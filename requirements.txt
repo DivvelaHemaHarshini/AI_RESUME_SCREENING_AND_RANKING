@@ -1,9 +1,5 @@
-Python 
-
-Streamlit
-
+Python 3.10.16
+streamlit
 PyPDF2
-
-Pandas
-
+pandas
 scikit-learn
