@@ -18,3 +18,4 @@ It ranks uploaded resumes based on their similarity to a provided job descriptio
   Functional Solution
 </p>
 
+<p>Streamlit app link: divvelahemaharshini-ai-resume-screening-and-r-resume-app-mzrvyk.streamlit.app/</p>
